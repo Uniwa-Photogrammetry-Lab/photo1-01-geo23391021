@@ -1,4 +1,12 @@
-# :wave: The Basics of GitHub 
+# 1η Ασκηση στην Φωτομετρία Ι
+## ΠΡΟΓΚΑΚΗΣ ΓΙΩΡΓΟΣ
+## 23391021
+## 4ο εξάμηνο
+
+
+
+
+#:wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
